@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy Alfonso. Soy de Viña del Mar, Chile. Actualmente me dedico a trabajar en lo que encuentre y disfruto la lectura de filosofía. No tengo formación en TI, tengo un grado de lic. en filosofía. No tengo experiencia previa, pero tengo las intenciones y ganas de aprender en este rubro. Pueden contactarme vía correo ajpizarror@gmail.com
+
 <!--
 **ajpizarror/ajpizarror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
